@@ -1,1 +1,11 @@
-# esm206-lab4-part2-ks
+My awesome ReadMe
+
+- some
+- bullets 
+- points
+
+
+And some other **useful information**!
+
+
+*YAY*
